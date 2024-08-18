@@ -1,14 +1,14 @@
 * {
     background-color: #202020;
     color: white; 
-    text-align: center;
-    max-width: fit-content;
     margin: 0px;
     padding: 0px;
+
 }
 
 h1 {
     font-size: 64px;
+    text-align: center;
 }
 
 a {
@@ -16,9 +16,11 @@ a {
 }
 
 .center-card {
-    margin-inline: auto
+    text-align: center;
 }
 
-body {
-    margin-inline: auto;
+ul {
+    text-align: left;
+    display: inline-block;
+    
 }
